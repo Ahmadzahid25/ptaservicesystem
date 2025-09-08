@@ -1,0 +1,35 @@
+branch - pembelian
+
+
+
+####customer report form###
+-Problem - Brand         = DONE
+-Description - kerosakan = DONE
+
+Report type - Warranty type
+-under warranty (perlu ade warranty dan resit )
+-dan over warranty (xperlu ade resit)
+
+choose file - 2 submit waranti dan bil pembelian
+
+
+repair progress customer takde
+
+#Dashboard user#
+#customer report hanya untuk complete sahaja#
+
+
+
+set charge transport ( harga )
+
+#dashboard admin #
+
+- take action tambah 
+- note transport ngn checking atas remark
+
+
+
+#form customer register add # DONE DONE DONE DONE
+-no ic
+-alamat
+-not required no phone 2
