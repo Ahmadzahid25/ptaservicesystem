@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
-$username = 'root';
-$password = ''; 
+$username = 'tvetikmb';
+$password = 'T87d4+E]fe1gMF'; 
 $dbname = 'tvetikmb_cmspro';
 
 $con = mysqli_connect($host, $username, $password, $dbname);
