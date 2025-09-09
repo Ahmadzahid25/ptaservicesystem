@@ -118,7 +118,7 @@ ob_end_flush();
     <div class="mb-4">
       <!-- Welcome Text -->
       <div class="welcome-text mb-1">WELCOME TO</div>
-      <a href="./index.html" class="system-text no-underline">
+      <a href="../index.html" class="system-text no-underline">
     PTA Service Management System
 </a>
     </div>
